@@ -83,8 +83,7 @@ SVM performed well after tuning with optimized kernel parameters
 Recall is prioritized to reduce false negatives (missed high-risk patients)
 🚀 How to Run the Project
 1. Clone Repository
-git clone https://github.com/your-username/breast-cancer-recurrence.git
-cd breast-cancer-recurrence
+git clone https://github.com/ammaraslam67/Final-Year-Project-Aslam1.git
 2. Install Dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn optuna
 3. Run the Notebook / Script
@@ -108,15 +107,10 @@ Feature selection techniques
 Deployment using Flask/Streamlit
 Integration with clinical decision systems
 👨‍🎓 Author
-Your Name
-University Name
-Course / Project Title
+Ammar Aslam
+University of Hertfordshire
+Title : Predicting Breast Cancer Recurrence: Identifying High Risk Patients Using Machine Learning Models
 📜 License
 
 This project is for academic and research purposes only.
 
-If you want, I can also:
-
-Make a short 1-page README (for quick submission)
-Add badges (accuracy, license, Python version)
-Or tailor it exactly to your university format 👍
